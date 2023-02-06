@@ -1,0 +1,11 @@
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\bin\Debug\FriendManager.exe.config
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\bin\Debug\FriendManager.exe
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\bin\Debug\FriendManager.pdb
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.csproj.AssemblyReference.cache
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.MyForm.resources
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.Properties.Resources.resources
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.csproj.GenerateResource.cache
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.exe
+C:\Users\Mohamad Kady\Source\Repos\FriendManager\FriendManager\obj\Debug\FriendManager.pdb
